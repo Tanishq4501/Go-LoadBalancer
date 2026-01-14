@@ -2,7 +2,11 @@
 
 A lightweight, high-performance HTTP load balancer implemented in Go using the round-robin algorithm. This load balancer distributes incoming HTTP requests across multiple backend servers to optimize resource utilization and improve application reliability.
 
-## 🚀 Features
+## � Demo
+
+![Load Balancer Demo](screenshot/Screenshot%202026-01-15%20015000.png)
+
+## �🚀 Features
 
 - **Round-Robin Algorithm**: Evenly distributes requests across all available backend servers
 - **Reverse Proxy**: Built on Go's `httputil.ReverseProxy` for efficient request forwarding
